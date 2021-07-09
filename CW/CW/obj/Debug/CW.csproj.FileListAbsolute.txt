@@ -1,0 +1,14 @@
+C:\Users\saide\Desktop\hospital\CW\CW\bin\Debug\CW.exe.config
+C:\Users\saide\Desktop\hospital\CW\CW\bin\Debug\CW.exe
+C:\Users\saide\Desktop\hospital\CW\CW\bin\Debug\CW.pdb
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.csprojAssemblyReference.cache
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.Properties.Resources.resources
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.Roles.resources
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.csproj.GenerateResource.cache
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.csproj.CoreCompileInputs.cache
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.exe
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.pdb
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.Patient.resources
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.Doctor.resources
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.HeadDoctor.resources
+C:\Users\saide\Desktop\hospital\CW\CW\obj\Debug\CW.Pharmacy.resources
